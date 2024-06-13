@@ -1,9 +1,12 @@
 # Sales-analysis Venturasales 
 
 Proyecto de Análisis de Datos para VenturaSales
+
 Introducción
 
-Este proyecto de análisis de datos tiene como objetivo explorar y analizar un conjunto de datos sintéticos para identificar patrones y tendencias que puedan ser relevantes para VenturaSales, una empresa especializada en optimización de estrategias de ventas.
+Este proyecto de análisis de datos tiene como objetivo explorar e identificar patrones y tendencias que puedan ser relevantes para VenturaSales, una empresa especializada en optimización de estrategias de ventas.
+
+VenturaSales es una empresa especializada en la optimización y potenciación de estrategias de ventas para sus clientes. Ofrece servicios integrales que incluyen el análisis de mercado, el desarrollo de estrategias de marketing y ventas, la implementación de técnicas de venta efectivas, y la capacitación de equipos comerciales. Su objetivo principal es ayudar a las empresas a incrementar sus ingresos y mejorar su posicionamiento en el mercado mediante soluciones innovadoras y adaptadas a las necesidades específicas de cada cliente.
 
 Descripción del conjunto de datos
 
